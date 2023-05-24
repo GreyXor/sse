@@ -3,7 +3,7 @@ module github.com/r3labs/sse/v2
 go 1.20
 
 require (
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 	gopkg.in/cenkalti/backoff.v1 v1.1.0
 )
 
